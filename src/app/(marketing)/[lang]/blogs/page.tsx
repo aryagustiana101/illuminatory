@@ -1,10 +1,10 @@
 import { type Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import contents from "~/data/contents";
 
 import { __, locales, type Locale } from "~/lib/translation";
 import { formatDate, fullUrl } from "~/lib/utils";
+import contents from "~/data/contents";
 
 interface BlogsPageProps {
   params: { lang: Locale };

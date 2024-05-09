@@ -2,10 +2,10 @@ import { type Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeftIcon } from "@radix-ui/react-icons";
-import contents from "~/data/contents";
 
 import { __, locales, type Locale } from "~/lib/translation";
 import { formatDate } from "~/lib/utils";
+import contents from "~/data/contents";
 import { buttonVariants } from "~/components/ui/button";
 import Prose from "~/components/prose";
 

@@ -5,7 +5,7 @@ import { RocketIcon } from "@radix-ui/react-icons";
 import { __, type Locale } from "~/lib/translation";
 import { buttonVariants } from "~/components/ui/button";
 
-const locale = "en" as const;
+const locale = "en";
 
 export async function generateMetadata({
   params,

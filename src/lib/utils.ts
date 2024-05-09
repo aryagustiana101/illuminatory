@@ -7,8 +7,7 @@ import {
 import { twMerge } from "tailwind-merge";
 
 import { APP_URL } from "~/lib/constants";
-
-import { Locale } from "./translation";
+import { type Locale } from "~/lib/translation";
 
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));

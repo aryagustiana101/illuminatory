@@ -1080,4 +1080,6 @@ const blogs = [
   locale: "en" | "id";
 }>;
 
-export default { blogs };
+const contents = { blogs };
+
+export default contents;
