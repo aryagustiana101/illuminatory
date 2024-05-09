@@ -12,6 +12,8 @@ export type DictionariesType =
 
 export const dictionaries = { en, id };
 
+export const locales = ["en", "id"] as const;
+
 export function __<T extends DictionariesType>(
   // eslint-disable-next-line @typescript-eslint/ban-types
   value: T | (string & {}),

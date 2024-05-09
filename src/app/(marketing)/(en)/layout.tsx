@@ -2,10 +2,12 @@ import * as React from "react";
 
 import MarketingLayout from "~/components/layouts/marketing-layout";
 
-interface EnLayoutProps {
+interface MarketingEnLayoutProps {
   children: React.ReactNode;
 }
 
-export default function EnLayout({ children }: EnLayoutProps) {
+export default function MarketingEnLayoutProps({
+  children,
+}: MarketingEnLayoutProps) {
   return <MarketingLayout locale="en">{children}</MarketingLayout>;
 }

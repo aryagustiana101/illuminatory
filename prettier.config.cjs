@@ -25,6 +25,7 @@ module.exports = {
     "^~/lib/(.*)$",
     "^~/validations/(.*)$",
     "^~/dictionaries/(.*)$",
+    "^~/data/(.*)$",
     "^~/hooks/(.*)$",
     "^~/components/ui/(.*)$",
     "^~/components/(.*)$",

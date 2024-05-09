@@ -16,7 +16,9 @@ export default function MarketingLayout({
   return (
     <React.Fragment>
       <Navbar locale={locale} />
-      <main className="flex-1">{children}</main>
+      <main className="mx-4 mb-40 mt-8 flex max-w-2xl flex-1 flex-col antialiased md:flex-row lg:mx-auto">
+        {children}
+      </main>
       <Footer locale={locale} />
     </React.Fragment>
   );

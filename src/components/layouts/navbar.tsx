@@ -17,7 +17,6 @@ interface NavbarProps {
 export default function Navbar({ locale = "en" }: NavbarProps) {
   const menus = [
     { href: `/${locale}`, title: __("Home", { locale }) },
-    { href: `/${locale}/about`, title: __("About", { locale }) },
     { href: `/${locale}/blogs`, title: __("Blogs", { locale }) },
   ];
 
