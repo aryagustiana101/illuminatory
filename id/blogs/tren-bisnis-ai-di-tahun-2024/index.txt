@@ -1,0 +1,136 @@
+2:I[8872,["872","static/chunks/872-8add78a6d8599293.js","388","static/chunks/app/(marketing)/%5Blang%5D/blogs/%5Bslug%5D/page-bcdbec98f6ed4c06.js"],""]
+4:I[3721,[],""]
+7:I[8222,[],""]
+8:I[995,["792","static/chunks/84fbfe7f-1da74bc45609c40c.js","872","static/chunks/872-8add78a6d8599293.js","54","static/chunks/54-b150454ff925b862.js","635","static/chunks/635-b9961becf790c6f4.js","306","static/chunks/306-79178221f47e00a3.js","738","static/chunks/app/(marketing)/%5Blang%5D/layout-449802f9803ec8a1.js"],"default"]
+9:I[4414,["792","static/chunks/84fbfe7f-1da74bc45609c40c.js","872","static/chunks/872-8add78a6d8599293.js","54","static/chunks/54-b150454ff925b862.js","635","static/chunks/635-b9961becf790c6f4.js","306","static/chunks/306-79178221f47e00a3.js","738","static/chunks/app/(marketing)/%5Blang%5D/layout-449802f9803ec8a1.js"],"DesktopNavbar"]
+d:I[8640,["792","static/chunks/84fbfe7f-1da74bc45609c40c.js","872","static/chunks/872-8add78a6d8599293.js","54","static/chunks/54-b150454ff925b862.js","635","static/chunks/635-b9961becf790c6f4.js","306","static/chunks/306-79178221f47e00a3.js","738","static/chunks/app/(marketing)/%5Blang%5D/layout-449802f9803ec8a1.js"],"default"]
+e:I[5461,["792","static/chunks/84fbfe7f-1da74bc45609c40c.js","872","static/chunks/872-8add78a6d8599293.js","54","static/chunks/54-b150454ff925b862.js","635","static/chunks/635-b9961becf790c6f4.js","306","static/chunks/306-79178221f47e00a3.js","738","static/chunks/app/(marketing)/%5Blang%5D/layout-449802f9803ec8a1.js"],"default"]
+10:I[3387,["54","static/chunks/54-b150454ff925b862.js","185","static/chunks/app/layout-776653fb580619fb.js"],"default"]
+3:T381d,<img style="max-width: 800px; width: 80%;" src="https://res.cloudinary.com/dvmafw5oc/image/upload/v1715240716/demographic-census-concept-representation_knik6i.jpg">
+        <h2 id="menjelajahi-tren-bisnis-terpanas-tahun-2024">Menjelajahi Tren Bisnis Terpanas Tahun 2024</h2>
+        
+        <p>Untuk sukses dalam dunia bisnis yang serba cepat dan terus berubah saat ini, sangat penting untuk mengikuti tren terbaru. Masa depan industri dibentuk oleh tren ini, yang menciptakan peluang baru dan memungkinkan bisnis untuk tetap kompetitif. Tujuan dari artikel ini adalah untuk memberikan analisis mendalam tentang tren bisnis paling penting di tahun 2024 dan memberikan ide dan strategi berharga bagi perusahaan untuk mengubah dan berkembang.</p>
+        
+        <h2 id="ai-generatif-meningkatkan-produktivitas-bisnis">AI Generatif Meningkatkan Produktivitas Bisnis</h2>
+        <p>Berpotensi menjadi terobosan baru bagi bisnis pada tahun 2024, AI Generatif, bagian dari kecerdasan buatan (AI) yang dapat menghasilkan konten baru seperti teks, gambar, atau audio, dapat mengotomatisasi banyak tugas, seperti pembuatan konten, analisis data, dan bahkan pengembangan perangkat lunak.</p>
+        <p>Laporan baru-baru ini dari Gartner menunjukkan bahwa pasar global untuk AI generatif diperkirakan akan mencapai $68,5 miliar pada tahun 2027, dengan CAGR (tingkat pertumbuhan tahunan gabungan) sebesar 38,5%. Pertumbuhan ini disebabkan oleh peningkatan permintaan untuk otomatisasi dan kebutuhan untuk meningkatkan efisiensi dalam berbagai industri.</p>
+        
+        <h3 id="penerapan-ai-generatif-di-dunia-nyata">Penerapan AI Generatif di Dunia Nyata</h3>
+        <p>Salah satu contoh penting dampak AI generatif adalah penerapannya dalam pembuatan konten. Perusahaan seperti Anthropic, OpenAI, dan Google telah mengembangkan model bahasa canggih yang mampu menghasilkan teks mirip manusia, sehingga memudahkan bisnis untuk membuat materi pemasaran, laporan, dan bahkan kode.</p>
+        
+        <h4 id="peran-ai-generatif-dalam-pembuatan-konten">Peran AI Generatif dalam Pembuatan Konten</h4>
+        <p>Dengan menggunakan model bahasa AI generatif, perusahaan dapat menghasilkan konten berkualitas dengan cepat dan efisien. Dengan meniru gaya dan struktur bahasa manusia, AI generatif dapat membuat teks yang sulit dibedakan dari tulisan manusia. Ini memberikan banyak peluang bagi bisnis, termasuk meningkatkan produktivitas dan meningkatkan kualitas konten.</p>
+        
+        <h4 class="contoh-implemetasi">Contoh Implementasi:</h4>
+        <p>Anthropic&#39;s Claude, sebuah asisten AI yang canggih, telah digunakan oleh banyak perusahaan untuk membuat materi pemasaran, artikel blog, dan dokumen bisnis. Misalnya, sebuah agensi pemasaran digital menggunakan Claude untuk menghasilkan ratusan posting media sosial dalam waktu singkat, memungkinkan mereka untuk menghadirkan konten berkualitas kepada klien mereka dengan cepat dan efisien.</p>
+        <p>OpenAI&#39;s GPT (Generative Pre-trained Transformer) adalah model bahasa AI generatif yang telah digunakan untuk membuat berbagai jenis konten, termasuk artikel berita, cerita fiksi, dan kode sumber. GPT dapat memahami dan menghasilkan teks dengan tingkat keakuratan yang mengesankan, membuatnya menjadi alat yang berharga dalam berbagai industri.</p>
+        
+        <h3 id="keuntungan-penggunaan-ai-generatif-dalam-pembuatan-konten">Keuntungan Penggunaan AI Generatif dalam Pembuatan Konten</h3>
+        <p>Penggunaan AI generatif dalam pembuatan konten menawarkan berbagai keuntungan bagi bisnis, termasuk:</p>
+        
+        <ol>
+            <li>
+                <p>
+                    <strong>Penyimpanan Waktu dan Sumber Daya</strong>: Dengan kemampuannya untuk menghasilkan konten secara otomatis, AI generatif mengurangi beban kerja manusia dalam pembuatan konten, sehingga menghemat waktu dan sumber daya bisnis.
+                </p>
+            </li>
+            <li>
+                <p>
+                    <strong>Konsistensi dan Kualitas</strong>: Model AI generatif dapat mempertahankan konsistensi gaya dan kualitas konten, bahkan ketika menghasilkan jumlah besar teks dalam waktu singkat. Hal ini membantu bisnis untuk memastikan bahwa pesan mereka disampaikan dengan jelas dan kohesif kepada audiens mereka.
+                </p>
+            </li>
+            <li>
+                <p>
+                    <strong>Skalabilitas</strong>: Dengan menggunakan AI generatif, bisnis dapat dengan mudah menyesuaikan kapasitas produksi konten mereka sesuai dengan kebutuhan, tanpa perlu menambah banyak tenaga kerja manusia.
+                </p>
+            </li>
+        </ol>
+        
+        <h3 id="tantangan-dan-solusi-dalam-penggunaan-ai-generatif">Tantangan dan Solusi dalam Penggunaan AI Generatif</h3>
+        <p>Meskipun banyak manfaat yang ditawarkan oleh AI generatif dalam pembuatan konten, ada juga beberapa tantangan yang perlu diatasi, seperti:</p>
+        
+        <h4 id="tantangan-">Tantangan:</h4>
+        <ul>
+            <li>
+                <p>
+                    <strong>Kesesuaian Konten</strong>: Ada risiko bahwa konten yang dihasilkan oleh AI generatif tidak sesuai dengan kebutuhan atau preferensi audiens, karena kurangnya pemahaman tentang konteks atau nilai-nilai merek.
+                </p>
+            </li>
+            <li>
+                <p>
+                    <strong>Biaya Implementasi</strong>: Pengembangan dan implementasi teknologi AI generatif dapat memerlukan investasi awal yang signifikan, terutama untuk perusahaan kecil dan menengah.
+                </p>
+            </li>
+        </ul>
+        
+        <h4 id="solusi-">Solusi:</h4>
+        <ul>
+            <li>
+                <p>
+                    <strong>Pelatihan Model AI</strong>: Dengan memberikan data yang sesuai dan memperbarui model AI secara teratur, bisnis dapat meningkatkan kemampuan AI generatif untuk menghasilkan konten yang lebih relevan dan berkualitas.
+                </p>
+            </li>
+            <li>
+                <p><strong>Kemitraan dengan Penyedia AI</strong>: Bermitra dengan penyedia layanan AI yang terpercaya dan berpengalaman dapat membantu bisnis mengurangi biaya dan risiko implementasi, sambil memastikan kualitas dan keamanan solusi AI.
+                </p>
+            </li>
+        </ul>
+
+        <h3 id="masa-depan-pembuatan-konten-dengan-ai-generatif">Masa Depan Pembuatan Konten dengan AI Generatif</h3>
+        <p>Dengan terus berkembangnya teknologi AI generatif, masa depan pembuatan konten diprediksi akan semakin didorong oleh kecerdasan buatan. Kemampuan AI untuk menghasilkan konten yang lebih kompleks dan kontekstual diperkirakan akan memungkinkan bisnis untuk menciptakan pengalaman yang lebih menarik dan personal bagi audiens mereka.</p>
+
+        <h3 id="tantangan-dan-pertimbangan-etis">Tantangan dan Pertimbangan Etis</h3>
+        <p>Meskipun manfaat AI generatif tidak dapat disangkal, penerapannya juga menimbulkan tantangan dan implikasi etis yang harus diatasi oleh bisnis. Salah satu kekhawatiran utama adalah potensi konten yang dihasilkan AI melanggengkan bias dan menyebarkan informasi yang salah jika data dan algoritme yang mendasarinya cacat atau bias.</p>
+        <p>Tantangan lainnya adalah dampak AI generatif terhadap berbagai industri dan peran pekerjaan. Meskipun AI dapat mengotomatiskan tugas-tugas tertentu, AI juga dapat menyebabkan perpindahan pekerjaan, terutama di bidang-bidang seperti pembuatan konten, analisis data, dan pengkodean. Dunia usaha harus berhati-hati dalam menavigasi transisi ini dan meningkatkan keterampilan tenaga kerja mereka untuk beradaptasi dengan perubahan lanskap pekerjaan.</p>
+        <p>Selain itu, terdapat kekhawatiran mengenai potensi penyalahgunaan AI generatif untuk tujuan jahat, seperti membuat deepfake atau menyebarkan kampanye disinformasi. Langkah-langkah keamanan yang kuat dan kerangka tata kelola sangat penting untuk memitigasi risiko-risiko ini.</p>
+
+        <h2 id="strategi-untuk-adopsi-yang-bertanggung-jawab">Strategi untuk Adopsi yang Bertanggung Jawab</h2>
+        <p>Untuk memanfaatkan manfaat AI generatif sekaligus mengatasi tantangan terkait, dunia usaha harus menerapkan pendekatan yang bertanggung jawab dan etis dalam penerapan AI. Berikut beberapa strategi yang perlu dipertimbangkan:</p>
+
+        <h3 id="menetapkan-kerangka-tata-kelola-dan-etika-ai">Menetapkan Kerangka Tata Kelola dan Etika AI</h3>
+        <p>Mengembangkan pedoman dan kebijakan yang jelas untuk penggunaan AI secara bertanggung jawab adalah langkah kunci dalam menghadapi kompleksitas AI generatif. Kerangka tata kelola yang solid memastikan bahwa prinsip-prinsip etika, transparansi, dan akuntabilitas diintegrasikan dalam seluruh siklus hidup pengembangan dan implementasi AI.</p>
+
+        <h4 class="contoh-implemetasi">Contoh Implementasi:</h4>
+        <p>Salah satu perusahaan yang menonjol dalam menetapkan kerangka tata kelola dan etika AI adalah Microsoft. Perusahaan ini telah menerbitkan prinsip AI yang bertujuan untuk memberikan panduan praktis bagi tim internal dan eksternal dalam pengembangan, pengujian, dan penerapan teknologi AI.</p>
+
+        <h3 id="berinvestasi-dalam-literasi-dan-peningkatan-keterampilan-ai">Berinvestasi dalam Literasi dan Peningkatan Keterampilan AI</h3>
+        <p>Memahami implikasi etis dari penggunaan AI adalah kunci untuk memastikan bahwa teknologi ini diterapkan dengan cara yang bertanggung jawab. Oleh karena itu, pelatihan dan pendidikan yang tepat harus diberikan kepada karyawan untuk meningkatkan pemahaman mereka tentang AI dan mengajarkan mereka keterampilan yang diperlukan untuk berinteraksi dengan sistem AI secara efektif.</p>
+
+        <h4 class="contoh-implemetasi">Contoh Implementasi:</h4>
+        <p>Google telah meluncurkan berbagai program pelatihan dan sertifikasi AI, seperti Google AI Academy, yang bertujuan untuk meningkatkan literasi AI di antara para profesional teknologi dan bisnis. Program-program ini mencakup kursus online, workshop, dan sertifikasi yang dirancang untuk berbagai tingkat keahlian.</p>
+
+        <h3 id="berkolaborasi-dengan-pakar-dan-penyedia-ai">Berkolaborasi dengan Pakar dan Penyedia AI</h3>
+        <p>Kerjasama dengan pakar dan penyedia AI terkemuka adalah langkah strategis untuk memastikan bahwa pengembangan dan implementasi sistem AI dilakukan dengan mematuhi praktik terbaik dan standar etika industri. Kemitraan semacam itu memungkinkan bisnis untuk mengakses pengetahuan dan keahlian yang diperlukan untuk mengembangkan solusi AI yang bertanggung jawab.</p>
+
+        <h4 class="contoh-implemetasi">Contoh Implementasi:</h4>
+        <p>Salesforce, salah satu perusahaan teknologi terkemuka, telah menjalin kemitraan dengan berbagai organisasi penelitian dan akademik untuk mengembangkan panduan dan alat-alat untuk etika dan tata kelola AI. Ini termasuk inisiatif seperti AI Ethics Framework dan Responsible AI Impact Assessment Tool.</p>
+
+        <h3 id="memprioritaskan-kualitas-data-dan-mitigasi-bias">Memprioritaskan Kualitas Data dan Mitigasi Bias</h3>
+        <p>Kualitas data merupakan elemen kunci dalam keberhasilan sistem AI. Untuk memastikan keadilan dan ketepatan dalam pengambilan keputusan AI, bisnis harus mengadopsi praktik pengelolaan data yang ketat, termasuk pengujian bias dan teknik mitigasi.</p>
+
+        <h4 class="contoh-implemetasi">Contoh Implementasi:</h4>
+        <p>Netflix menggunakan teknik mitigasi bias dalam algoritma rekomendasi mereka dengan memperhitungkan faktor-faktor seperti demografi dan preferensi pengguna yang beragam. Hal ini memastikan bahwa rekomendasi konten tidak hanya didasarkan pada pola perilaku yang dominan.</p>
+
+        <h3 id="merangkul-transparansi-dan-penjelasan">Merangkul Transparansi dan Penjelasan</h3>
+        <p>Transparansi adalah kunci untuk membangun kepercayaan dalam sistem AI. Bisnis harus mengadopsi sistem AI yang transparan dan dapat dijelaskan, memungkinkan pemangku kepentingan untuk memahami proses pengambilan keputusan dan memastikan akuntabilitas.</p>
+
+        <h4 class="contoh-implemetasi">Contoh Implementasi:</h4>
+        <p>OpenAI telah mengembangkan model bahasa AI yang terbuka dan transparan, seperti GPT-3, yang memungkinkan pengguna untuk melihat bagaimana model tersebut menghasilkan outputnya dan memahami mekanisme di baliknya.</p>
+
+        <h3 id="pantau-dan-evaluasi-secara-berkelanjutan">Pantau dan Evaluasi Secara Berkelanjutan</h3>
+        <p>Pantauan dan evaluasi terus-menerus diperlukan untuk memastikan bahwa sistem AI beroperasi dengan baik dan sesuai dengan standar etika yang ditetapkan. Bisnis harus secara berkala mengevaluasi kinerja dan dampak sistem AI mereka, dan melakukan penyesuaian jika diperlukan untuk mengatasi masalah atau konsekuensi yang tidak diinginkan.</p>
+
+        <h4 class="contoh-implemetasi">Contoh Implementasi:</h4>
+        <p>Facebook telah mendirikan sebuah tim khusus, yaitu Responsible AI, yang bertanggung jawab untuk memantau dan mengevaluasi dampak penggunaan AI di platform mereka. Tim ini terus memperbarui dan meningkatkan kebijakan dan praktik mereka untuk memastikan bahwa AI digunakan secara bertanggung jawab dan aman.</p>
+        <p>Dengan mengadopsi strategi ini, dunia usaha dapat memanfaatkan kekuatan AI generatif sekaligus memitigasi risiko dan menumbuhkan kepercayaan di antara para pemangku kepentingan, termasuk pelanggan, karyawan, dan badan pengatur.</p>
+
+        <img style="max-width: 800px; width: 80%;" src="https://res.cloudinary.com/dvmafw5oc/image/upload/v1715241000/asia-businessmen-businesswomen-meeting-brainstorming-ideas-conducting-business-presentation-project-colleagues-working-together-plan-success-strategy-enjoy-teamwork-smal_j6qhok.jpg">
+        <h2 id="kesimpulan">Kesimpulan</h2>
+        <p>Dengan perkembangan teknologi yang cepat, perubahan preferensi pelanggan, dan pasar yang dinamis, bisnis akan terpengaruh pada tahun 2024. Bisnis dapat memastikan kesuksesan masa depan dengan mengikuti tren terbaru dan menerapkan pendekatan inovatif. Kunci sukses dalam dunia bisnis saat ini adalah kemampuan untuk beradaptasi, berinovasi, dan berkomitmen terhadap keunggulan. Hal ini meliputi pemanfaatan AI generatif guna meningkatkan efisiensi, pemanfaatan e-commerce untuk mencapai pelanggan yang belum terjangkau, atau fokus pada keberlanjutan sebagai respons terhadap tuntutan konsumen</p>5:["lang","id","d"]
+6:["slug","tren-bisnis-ai-di-tahun-2024","d"]
+b:{"href":"/id","title":"Beranda"}
+c:{"href":"/id/blogs","title":"Blog"}
+a:["$b","$c"]
+f:T49a,M7.49933 0.25C3.49635 0.25 0.25 3.49593 0.25 7.50024C0.25 10.703 2.32715 13.4206 5.2081 14.3797C5.57084 14.446 5.70302 14.2222 5.70302 14.0299C5.70302 13.8576 5.69679 13.4019 5.69323 12.797C3.67661 13.235 3.25112 11.825 3.25112 11.825C2.92132 10.9874 2.44599 10.7644 2.44599 10.7644C1.78773 10.3149 2.49584 10.3238 2.49584 10.3238C3.22353 10.375 3.60629 11.0711 3.60629 11.0711C4.25298 12.1788 5.30335 11.8588 5.71638 11.6732C5.78225 11.205 5.96962 10.8854 6.17658 10.7043C4.56675 10.5209 2.87415 9.89918 2.87415 7.12104C2.87415 6.32925 3.15677 5.68257 3.62053 5.17563C3.54576 4.99226 3.29697 4.25521 3.69174 3.25691C3.69174 3.25691 4.30015 3.06196 5.68522 3.99973C6.26337 3.83906 6.8838 3.75895 7.50022 3.75583C8.1162 3.75895 8.73619 3.83906 9.31523 3.99973C10.6994 3.06196 11.3069 3.25691 11.3069 3.25691C11.7026 4.25521 11.4538 4.99226 11.3795 5.17563C11.8441 5.68257 12.1245 6.32925 12.1245 7.12104C12.1245 9.9063 10.4292 10.5192 8.81452 10.6985C9.07444 10.9224 9.30633 11.3648 9.30633 12.0413C9.30633 13.0102 9.29742 13.7922 9.29742 14.0299C9.29742 14.2239 9.42828 14.4496 9.79591 14.3788C12.6746 13.4179 14.75 10.7025 14.75 7.50024C14.75 3.49593 11.5036 0.25 7.49933 0.25Z0:["ld1RKXhgzGXjoKwz4ImLb",[[["",{"children":["(marketing)",{"children":[["lang","id","d"],{"children":["blogs",{"children":[["slug","tren-bisnis-ai-di-tahun-2024","d"],{"children":["__PAGE__?{\"lang\":\"id\",\"slug\":\"tren-bisnis-ai-di-tahun-2024\"}",{}]}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(marketing)",{"children":[["lang","id","d"],{"children":["blogs",{"children":[["slug","tren-bisnis-ai-di-tahun-2024","d"],{"children":["__PAGE__",{},[["$L1",["$","section",null,{"children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl","children":"Tren Bisnis AI di Tahun 2024"}],["$","p",null,{"className":"text-justify leading-7 text-neutral-600 dark:text-neutral-400 [&:not(:first-child)]:mt-4","children":"9 Mei 2024"}]]}],["$","$L2",null,{"href":"/id/blogs","className":"inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 text-primary underline-offset-4 hover:underline h-9 px-4 py-2 mb-8","children":[["$","svg",null,{"width":"15","height":"15","viewBox":"0 0 15 15","fill":"none","xmlns":"http://www.w3.org/2000/svg","className":"mr-2 size-4","children":["$","path",null,{"d":"M6.85355 3.14645C7.04882 3.34171 7.04882 3.65829 6.85355 3.85355L3.70711 7H12.5C12.7761 7 13 7.22386 13 7.5C13 7.77614 12.7761 8 12.5 8H3.70711L6.85355 11.1464C7.04882 11.3417 7.04882 11.6583 6.85355 11.8536C6.65829 12.0488 6.34171 12.0488 6.14645 11.8536L2.14645 7.85355C1.95118 7.65829 1.95118 7.34171 2.14645 7.14645L6.14645 3.14645C6.34171 2.95118 6.65829 2.95118 6.85355 3.14645Z","fill":"currentColor","fillRule":"evenodd","clipRule":"evenodd"}]}],"Kembali"]}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$3"},"className":"prose prose-sm prose-neutral max-w-none dark:prose-invert"}]]}]],null],null]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children","$5","children","blogs","children","$6","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children","$5","children","blogs","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[[["$","header",null,{"className":"sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60","children":["$","div",null,{"className":"container flex h-14 max-w-screen-2xl items-center","children":[["$","$L8",null,{"logoHref":"/id","menus":[{"href":"/id","title":"Beranda"},{"href":"/id/blogs","title":"Blog"}]}],["$","$L9",null,{"logoHref":"/id","menus":"$a"}],["$","div",null,{"className":"flex flex-1 items-center justify-end space-x-2 md:justify-end","children":["$","nav",null,{"className":"flex items-center gap-4","children":[["$","$Ld",null,{}],["$","$Le",null,{"locale":"id"}],["$","$L2",null,{"target":"_blank","rel":"noreferrer","href":"https://github.com/aryagustiana101/illuminatory","children":["$","div",null,{"className":"inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground h-9 py-2 w-9 px-0","children":["$","svg",null,{"width":"15","height":"15","viewBox":"0 0 15 15","fill":"none","xmlns":"http://www.w3.org/2000/svg","className":"h-4 w-4","children":["$","path",null,{"d":"$f","fill":"currentColor","fillRule":"evenodd","clipRule":"evenodd"}]}]}]}]]}]}]]}]}],["$","main",null,{"className":"mx-4 mb-40 mt-8 flex max-w-2xl flex-1 flex-col antialiased md:flex-row lg:mx-auto","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]}],["$","footer",null,{"className":"py-6 md:px-8 md:py-0","children":["$","div",null,{"className":"container flex flex-col items-center justify-center gap-4 md:h-24 md:flex-row","children":["$","p",null,{"className":"text-balance text-center text-sm leading-loose text-muted-foreground md:text-left","children":"© Hak Cipta 2024 - Gustiana Software"}]}]}]],null],null]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"__variable_174ffe __variable_06ba51 relative flex min-h-screen flex-col bg-background font-sans antialiased","children":["$","$L10",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"container flex h-[100dvh] max-w-2xl flex-col items-center justify-center","children":["$","main",null,{"className":"space-y-8","children":[["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl","children":"404"}],["$","p",null,{"className":"leading-7 [&:not(:first-child)]:mt-6","children":"The page you looking for is not exists"}]]}],["$","div",null,{"className":"flex w-full justify-center","children":["$","$L2",null,{"href":"/","className":"inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground shadow hover:bg-primary/90 h-9 px-4 py-2","children":"Back to Home"}]}]]}]}],"notFoundStyles":[],"styles":null}]}]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"https://cdn-illuminatory.aryagustiana.com/out/_next/static/css/141c62f21f658299.css","precedence":"next","crossOrigin":"$undefined"}]],"$L11"]]]]
+11:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Tren Bisnis AI di Tahun 2024 - Illuminatory"}],["$","meta","3",{"name":"description","content":"Curated collection of articles, tips, and strategies designed to illuminate the path to success in the world of commerce."}],["$","link","4",{"rel":"manifest","href":"https://illuminatory.aryagustiana.com/site.webmanifest","crossOrigin":"use-credentials"}],["$","meta","5",{"name":"keywords","content":"business,technology,stock"}],["$","meta","6",{"property":"og:title","content":"Illuminatory"}],["$","meta","7",{"property":"og:description","content":"Curated collection of articles, tips, and strategies designed to illuminate the path to success in the world of commerce."}],["$","meta","8",{"property":"og:url","content":"https://illuminatory.aryagustiana.com/"}],["$","meta","9",{"property":"og:site_name","content":"Illuminatory"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image:type","content":"image/png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image","content":"https://illuminatory.aryagustiana.com/opengraph-image.png?dcdfdd4da6c383cc"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Illuminatory"}],["$","meta","18",{"name":"twitter:description","content":"Curated collection of articles, tips, and strategies designed to illuminate the path to success in the world of commerce."}],["$","meta","19",{"name":"twitter:image","content":"https://illuminatory.aryagustiana.com/opengraph-image.png"}],["$","meta","20",{"name":"next-size-adjust"}]]
+1:null

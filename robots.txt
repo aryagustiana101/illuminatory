@@ -1,0 +1,4 @@
+User-Agent: *
+
+Host: https://illuminatory.aryagustiana.com
+Sitemap: https://illuminatory.aryagustiana.com/sitemap.xml

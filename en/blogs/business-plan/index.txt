@@ -1,0 +1,147 @@
+2:I[8872,["872","static/chunks/872-8add78a6d8599293.js","388","static/chunks/app/(marketing)/%5Blang%5D/blogs/%5Bslug%5D/page-bcdbec98f6ed4c06.js"],""]
+4:I[3721,[],""]
+7:I[8222,[],""]
+8:I[995,["792","static/chunks/84fbfe7f-1da74bc45609c40c.js","872","static/chunks/872-8add78a6d8599293.js","54","static/chunks/54-b150454ff925b862.js","635","static/chunks/635-b9961becf790c6f4.js","306","static/chunks/306-79178221f47e00a3.js","738","static/chunks/app/(marketing)/%5Blang%5D/layout-449802f9803ec8a1.js"],"default"]
+9:I[4414,["792","static/chunks/84fbfe7f-1da74bc45609c40c.js","872","static/chunks/872-8add78a6d8599293.js","54","static/chunks/54-b150454ff925b862.js","635","static/chunks/635-b9961becf790c6f4.js","306","static/chunks/306-79178221f47e00a3.js","738","static/chunks/app/(marketing)/%5Blang%5D/layout-449802f9803ec8a1.js"],"DesktopNavbar"]
+d:I[8640,["792","static/chunks/84fbfe7f-1da74bc45609c40c.js","872","static/chunks/872-8add78a6d8599293.js","54","static/chunks/54-b150454ff925b862.js","635","static/chunks/635-b9961becf790c6f4.js","306","static/chunks/306-79178221f47e00a3.js","738","static/chunks/app/(marketing)/%5Blang%5D/layout-449802f9803ec8a1.js"],"default"]
+e:I[5461,["792","static/chunks/84fbfe7f-1da74bc45609c40c.js","872","static/chunks/872-8add78a6d8599293.js","54","static/chunks/54-b150454ff925b862.js","635","static/chunks/635-b9961becf790c6f4.js","306","static/chunks/306-79178221f47e00a3.js","738","static/chunks/app/(marketing)/%5Blang%5D/layout-449802f9803ec8a1.js"],"default"]
+10:I[3387,["54","static/chunks/54-b150454ff925b862.js","185","static/chunks/app/layout-776653fb580619fb.js"],"default"]
+3:T3c53,<img style="max-width: 800px; width: 80%;" src="https://res.cloudinary.com/dvmafw5oc/image/upload/v1715244175/millennial-asia-businessmen-businesswomen-meeting-brainstorming-ideas-about-new-paperwork-project-colleagues-working-together-planning-success-strategy-enjoy-teamwor_1_tgcx4z.jpg">
+        <h2 id="introduction">Introduction</h2>
+        <p>A well-crafted business plan is a crucial foundation for any entrepreneurial endeavor. It serves as a comprehensive roadmap that guides the strategic direction, operations, and growth of your venture. Whether you&#39;re seeking funding from investors, securing loans, or simply developing a clear vision for your business, a meticulously prepared business plan is an invaluable asset.</p>
+        <p>The primary purposes of a business plan include:</p>
+        <ol>
+            <li>
+                <p><strong>Securing Funding</strong>: A detailed and well-researched business plan is often a prerequisite for obtaining financing from investors, banks, or other lending institutions. It demonstrates the viability and potential of your business idea, instilling confidence in potential investors and lenders.</p>
+            </li>
+            <li>
+                <p><strong>Guiding Operations</strong>: A business plan serves as a strategic blueprint, outlining the key operational aspects of your venture, such as marketing strategies, financial projections, and organizational structure. It helps ensure that all stakeholders are aligned with the company&#39;s vision and objectives.</p>
+            </li>
+            <li>
+                <p><strong>Attracting Partners and Talent</strong>: A comprehensive business plan can be instrumental in attracting potential partners, collaborators, and top talent to your venture. It showcases your vision, expertise, and commitment to success, making your business more appealing to prospective employees and strategic partners.</p>
+            </li>
+        </ol>
+        <p>In this comprehensive guide, we will explore the essential components of an effective business plan, providing insights and strategies to help you craft a compelling and actionable document that sets your venture on the path to success.</p>
+        
+
+        <h2 id="define-your-business-idea-and-market-opportunity">Define Your Business Idea and Market Opportunity</h2>
+        <p>The foundation of any successful business plan is a clearly defined and compelling business idea. This section should articulate the core product or service you intend to offer, its unique value proposition, and the market opportunity it addresses. A well-articulated business idea not only demonstrates your understanding of the market but also showcases the potential for growth and profitability.</p>
+        
+        <h3 id="conduct-thorough-market-research">Conduct Thorough Market Research</h3>
+        <p>Thorough market research is essential to validate your business idea and identify target customers, competitors, and market trends. Utilize various research techniques to gather valuable insights:</p>
+        <ul>
+            <li>
+                <p><strong>Online Surveys</strong>: Conduct online surveys to gather quantitative data about consumer preferences, pain points, and willingness to pay for your product or service.</p>
+            </li>
+            <li>
+                <p><strong>Focus Groups</strong>: Organize focus group discussions to gain qualitative insights into consumer behavior, perceptions, and feedback on your business idea.</p>
+            </li>
+            <li>
+                <p><strong>Industry Reports and Publications</strong>: Consult industry-specific reports, trade publications, and market research firms for valuable data and analysis on market trends, consumer behavior, and competitive landscapes.</p>
+            </li>
+            <li>
+                <p><strong>Competitor Analysis</strong>: Analyze your direct and indirect competitors, their offerings, pricing strategies, marketing tactics, and customer reviews. Identify their strengths and weaknesses, and use this information to differentiate your business.</p>
+            </li>
+            <li>
+                <p><strong>Customer Interviews and Observations</strong>: Conduct interviews with potential customers and observe their behavior in real-world settings to gain deeper insights into their needs, pain points, and preferences.</p>
+            </li>
+        </ul>
+        
+        <h3 id="validate-your-business-idea">Validate Your Business Idea</h3>
+        <p>After conducting thorough market research, it&#39;s crucial to validate your business idea to ensure its viability and potential for success. Consider the following strategies:</p>
+        <ul>
+            <li>
+                <p><strong>Minimum Viable Product (MVP)</strong>: Develop a basic version of your product or service and test it with a small group of early adopters. Gather feedback, analyze user behavior, and refine your offering based on the insights gained.</p>
+            </li>
+            <li>
+                <p><strong>Pilot Program or Beta Testing</strong>: Launch a pilot program or beta testing phase to gather real-world data on your product or service&#39;s performance, user experience, and market demand.</p>
+            </li>
+            <li>
+                <p><strong>Crowdsourcing and Crowdfunding</strong>: Leverage crowdsourcing platforms to gather feedback, ideas, and potential pre-orders or investment from early supporters and potential customers.</p>
+            </li>
+        </ul>
+        
+        <h3 id="identify-your-unique-value-proposition">Identify Your Unique Value Proposition</h3>
+        <p>Differentiating your business from competitors is essential for success. Identify your unique value proposition by answering the following questions:</p>
+        <ul>
+            <li>What specific problem or need does your product or service address?</li>
+            <li>How does your solution differ from existing alternatives in the market?</li>
+            <li>What unique features, benefits, or capabilities set your offering apart?</li>
+            <li>Why should customers choose your business over competitors?</li>
+        </ul>
+        <p>Clearly articulating your unique value proposition in your business plan will help you position your business effectively and communicate its competitive advantages to potential customers, investors, and partners.</p>
+        <p><strong>Example</strong>: Suppose you&#39;re developing a mobile app that helps users track their daily water intake and provides personalized hydration recommendations. Your unique value proposition could be:</p>
+        <blockquote>
+            <p>&quot;Our app uses advanced algorithms and machine learning to provide personalized hydration recommendations based on individual factors like age, activity level, and weather conditions, ensuring optimal hydration for improved health and well-being.&quot;</p>
+        </blockquote>
+        <p>By conducting thorough market research, validating your business idea, and identifying your unique value proposition, you establish a solid foundation for your business plan and increase the likelihood of success for your venture.</p>
+        
+        
+        <h2 id="develop-a-solid-marketing-and-sales-strategy">Develop a Solid Marketing and Sales Strategy</h2>
+        <p>A well-crafted marketing and sales strategy is essential for attracting and retaining customers, driving revenue growth, and achieving long-term business success. This section of your business plan should outline your approach to positioning your brand, reaching your target audience, and generating sales.</p>
+        <p>To develop a solid marketing and sales strategy, consider the following elements:</p>
+        
+        <h3 id="target-market-definition-and-analysis">Target Market Definition and Analysis</h3>
+        <p>Clearly define your target market segment(s), including demographic, psychographic, and geographic characteristics. Conduct a thorough analysis to understand their needs, preferences, buying behaviors, and pain points. This information will inform your marketing messaging, product development, and sales strategies.</p>
+        
+        <h3 id="positioning-and-branding">Positioning and Branding</h3>
+        <p>Develop a compelling brand identity that resonates with your target audience and differentiates your business from competitors. Define your brand&#39;s personality, values, and unique selling proposition (USP). Outline your positioning strategy, including how you will communicate your brand&#39;s value and establish a strong market presence.</p>
+        
+        <h3 id="marketing-mix-4ps-">Marketing Mix (4Ps)</h3>
+        <p>Develop a comprehensive marketing mix that addresses the following four elements:</p>
+        <ol>
+            <li>
+                <p><strong>Product</strong>: Describe your product or service offerings, including features, benefits, and any plans for future enhancements or additions.</p>
+            </li>
+            <li>
+                <p><strong>Price</strong>: Outline your pricing strategy, considering factors such as production costs, target market, and competitive pricing. Explain your pricing model (e.g., subscription-based, one-time purchase, freemium, etc.).</p>
+            </li>
+            <li>
+                <p><strong>Place (Distribution)</strong>: Describe your distribution channels and how you will make your product or service accessible to your target customers. This could include physical locations, online platforms, partnerships, or reseller networks.</p>
+            </li>
+            <li>
+                <p><strong>Promotion</strong>: Detail your promotional strategies, including advertising, content marketing, public relations, events, and any other tactics you plan to use to generate awareness and drive sales.</p>
+            </li>
+        </ol>
+        
+        <h3 id="sales-strategy-and-forecasting">Sales Strategy and Forecasting</h3>
+        <p>Outline your sales strategy, including your sales team structure, lead generation methods, and sales processes. Develop realistic sales forecasts based on market analysis, pricing, and promotional efforts. Include projected sales volumes, revenue estimates, and any assumptions or variables that may impact your forecasts.</p>
+        <p>By developing a comprehensive marketing and sales strategy, you demonstrate a clear understanding of your target market, competitive landscape, and the tactics you will employ to acquire and retain customers. This section of your business plan provides a roadmap for effectively promoting and selling your product or service, ultimately driving revenue growth and long-term business success.</p>
+        
+        
+        <h2 id="create-a-comprehensive-operations-plan">Create a Comprehensive Operations Plan</h2>
+        <p>Your business plan should include a detailed operations plan that outlines the processes, resources, and systems required to effectively deliver your product or service to customers. A well-designed operations plan ensures efficiency, cost-effectiveness, and quality control, while also addressing potential operational risks and challenges.</p>
+        <p>When creating your operations plan, consider the following key elements:</p>
+        
+        <h3 id="supply-chain-and-logistics">Supply Chain and Logistics</h3>
+        <p>Describe your supply chain and logistics processes, including sourcing of raw materials or inventory, manufacturing or production processes, storage and distribution mechanisms, and delivery methods. Identify key suppliers, partners, and any potential bottlenecks or risks in your supply chain.</p>
+        
+        <h3 id="facilities-and-infrastructure">Facilities and Infrastructure</h3>
+        <p>Outline the physical facilities and infrastructure needed to support your operations, including production facilities, office space, storage facilities, and transportation vehicles. Consider factors such as location, capacity, scalability, and regulatory requirements.</p>
+        
+        <h3 id="technology-and-information-systems">Technology and Information Systems</h3>
+        <p>Identify the technology and information systems required to support your operations, such as inventory management systems, customer relationship management (CRM) software, and enterprise resource planning (ERP) systems. Evaluate different software solutions and choose those that best meet your business needs and objectives.</p>
+        
+        <h3 id="quality-control-and-assurance">Quality Control and Assurance</h3>
+        <p>Develop quality control and assurance processes to ensure that your products or services meet the highest standards of quality and reliability. Implement quality management systems, conduct regular inspections and audits, and establish procedures for addressing and resolving any quality issues that arise.</p>
+        
+        <h3 id="risk-management">Risk Management</h3>
+        <p>Identify potential operational risks and develop strategies to mitigate them. This could include risks related to supply chain disruptions, equipment failure, regulatory compliance, cybersecurity threats, and natural disasters. Implement risk management processes and contingency plans to minimize the impact of unforeseen events on your operations.</p>
+        
+        <h3 id="human-resources-and-talent-management">Human Resources and Talent Management</h3>
+        <p>Outline your human resources strategy, including recruitment, training, performance management, and employee retention initiatives. Identify the skills and expertise required to support your operations and develop plans for attracting and retaining top talent.</p>
+        
+        <h3 id="legal-and-regulatory-compliance">Legal and Regulatory Compliance</h3>
+        <p>Ensure compliance with relevant laws, regulations, and industry standards governing your business operations. Stay informed about changes in legislation and regulatory requirements that may impact your business, and develop procedures for ensuring ongoing compliance.</p>
+        <p>By creating a comprehensive operations plan, you lay the groundwork for efficient and effective execution of your business strategy. This section of your business plan demonstrates your ability to manage the day-to-day operations of your venture and mitigate potential risks, ensuring the long-term success and sustainability of your business.</p>
+        
+        <img style="max-width: 800px; width: 80%;" src="https://res.cloudinary.com/dvmafw5oc/image/upload/v1715244129/businessmen-hands-white-table-with-documents-drafts_eqcyqa.jpg">
+        <h2 id="conclusion">Conclusion</h2>
+        <p>A well-crafted business plan is essential for the success of any entrepreneurial venture. By defining your business idea, conducting thorough market research, developing a solid marketing and sales strategy, and creating a comprehensive operations plan, you lay the foundation for achieving your business goals and objectives. Remember to regularly review and update your business plan as your venture evolves and grows, adapting your strategies and tactics to changing market conditions and emerging opportunities. With a clear vision, strategic direction, and actionable plan in place, you can navigate the challenges and uncertainties of entrepreneurship with confidence and resilience.</p>5:["lang","en","d"]
+6:["slug","business-plan","d"]
+b:{"href":"/en","title":"Home"}
+c:{"href":"/en/blogs","title":"Blogs"}
+a:["$b","$c"]
+f:T49a,M7.49933 0.25C3.49635 0.25 0.25 3.49593 0.25 7.50024C0.25 10.703 2.32715 13.4206 5.2081 14.3797C5.57084 14.446 5.70302 14.2222 5.70302 14.0299C5.70302 13.8576 5.69679 13.4019 5.69323 12.797C3.67661 13.235 3.25112 11.825 3.25112 11.825C2.92132 10.9874 2.44599 10.7644 2.44599 10.7644C1.78773 10.3149 2.49584 10.3238 2.49584 10.3238C3.22353 10.375 3.60629 11.0711 3.60629 11.0711C4.25298 12.1788 5.30335 11.8588 5.71638 11.6732C5.78225 11.205 5.96962 10.8854 6.17658 10.7043C4.56675 10.5209 2.87415 9.89918 2.87415 7.12104C2.87415 6.32925 3.15677 5.68257 3.62053 5.17563C3.54576 4.99226 3.29697 4.25521 3.69174 3.25691C3.69174 3.25691 4.30015 3.06196 5.68522 3.99973C6.26337 3.83906 6.8838 3.75895 7.50022 3.75583C8.1162 3.75895 8.73619 3.83906 9.31523 3.99973C10.6994 3.06196 11.3069 3.25691 11.3069 3.25691C11.7026 4.25521 11.4538 4.99226 11.3795 5.17563C11.8441 5.68257 12.1245 6.32925 12.1245 7.12104C12.1245 9.9063 10.4292 10.5192 8.81452 10.6985C9.07444 10.9224 9.30633 11.3648 9.30633 12.0413C9.30633 13.0102 9.29742 13.7922 9.29742 14.0299C9.29742 14.2239 9.42828 14.4496 9.79591 14.3788C12.6746 13.4179 14.75 10.7025 14.75 7.50024C14.75 3.49593 11.5036 0.25 7.49933 0.25Z0:["ld1RKXhgzGXjoKwz4ImLb",[[["",{"children":["(marketing)",{"children":[["lang","en","d"],{"children":["blogs",{"children":[["slug","business-plan","d"],{"children":["__PAGE__?{\"lang\":\"en\",\"slug\":\"business-plan\"}",{}]}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(marketing)",{"children":[["lang","en","d"],{"children":["blogs",{"children":[["slug","business-plan","d"],{"children":["__PAGE__",{},[["$L1",["$","section",null,{"children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl","children":"Business Plan"}],["$","p",null,{"className":"text-justify leading-7 text-neutral-600 dark:text-neutral-400 [&:not(:first-child)]:mt-4","children":"May 9th, 2024"}]]}],["$","$L2",null,{"href":"/en/blogs","className":"inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 text-primary underline-offset-4 hover:underline h-9 px-4 py-2 mb-8","children":[["$","svg",null,{"width":"15","height":"15","viewBox":"0 0 15 15","fill":"none","xmlns":"http://www.w3.org/2000/svg","className":"mr-2 size-4","children":["$","path",null,{"d":"M6.85355 3.14645C7.04882 3.34171 7.04882 3.65829 6.85355 3.85355L3.70711 7H12.5C12.7761 7 13 7.22386 13 7.5C13 7.77614 12.7761 8 12.5 8H3.70711L6.85355 11.1464C7.04882 11.3417 7.04882 11.6583 6.85355 11.8536C6.65829 12.0488 6.34171 12.0488 6.14645 11.8536L2.14645 7.85355C1.95118 7.65829 1.95118 7.34171 2.14645 7.14645L6.14645 3.14645C6.34171 2.95118 6.65829 2.95118 6.85355 3.14645Z","fill":"currentColor","fillRule":"evenodd","clipRule":"evenodd"}]}],"Back"]}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$3"},"className":"prose prose-sm prose-neutral max-w-none dark:prose-invert"}]]}]],null],null]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children","$5","children","blogs","children","$6","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children","$5","children","blogs","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[[["$","header",null,{"className":"sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60","children":["$","div",null,{"className":"container flex h-14 max-w-screen-2xl items-center","children":[["$","$L8",null,{"logoHref":"/en","menus":[{"href":"/en","title":"Home"},{"href":"/en/blogs","title":"Blogs"}]}],["$","$L9",null,{"logoHref":"/en","menus":"$a"}],["$","div",null,{"className":"flex flex-1 items-center justify-end space-x-2 md:justify-end","children":["$","nav",null,{"className":"flex items-center gap-4","children":[["$","$Ld",null,{}],["$","$Le",null,{"locale":"en"}],["$","$L2",null,{"target":"_blank","rel":"noreferrer","href":"https://github.com/aryagustiana101/illuminatory","children":["$","div",null,{"className":"inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground h-9 py-2 w-9 px-0","children":["$","svg",null,{"width":"15","height":"15","viewBox":"0 0 15 15","fill":"none","xmlns":"http://www.w3.org/2000/svg","className":"h-4 w-4","children":["$","path",null,{"d":"$f","fill":"currentColor","fillRule":"evenodd","clipRule":"evenodd"}]}]}]}]]}]}]]}]}],["$","main",null,{"className":"mx-4 mb-40 mt-8 flex max-w-2xl flex-1 flex-col antialiased md:flex-row lg:mx-auto","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]}],["$","footer",null,{"className":"py-6 md:px-8 md:py-0","children":["$","div",null,{"className":"container flex flex-col items-center justify-center gap-4 md:h-24 md:flex-row","children":["$","p",null,{"className":"text-balance text-center text-sm leading-loose text-muted-foreground md:text-left","children":"© Copyright 2024 - Gustiana Software"}]}]}]],null],null]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"__variable_174ffe __variable_06ba51 relative flex min-h-screen flex-col bg-background font-sans antialiased","children":["$","$L10",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"container flex h-[100dvh] max-w-2xl flex-col items-center justify-center","children":["$","main",null,{"className":"space-y-8","children":[["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl","children":"404"}],["$","p",null,{"className":"leading-7 [&:not(:first-child)]:mt-6","children":"The page you looking for is not exists"}]]}],["$","div",null,{"className":"flex w-full justify-center","children":["$","$L2",null,{"href":"/","className":"inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground shadow hover:bg-primary/90 h-9 px-4 py-2","children":"Back to Home"}]}]]}]}],"notFoundStyles":[],"styles":null}]}]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"https://cdn-illuminatory.aryagustiana.com/out/_next/static/css/141c62f21f658299.css","precedence":"next","crossOrigin":"$undefined"}]],"$L11"]]]]
+11:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Business Plan - Illuminatory"}],["$","meta","3",{"name":"description","content":"Curated collection of articles, tips, and strategies designed to illuminate the path to success in the world of commerce."}],["$","link","4",{"rel":"manifest","href":"https://illuminatory.aryagustiana.com/site.webmanifest","crossOrigin":"use-credentials"}],["$","meta","5",{"name":"keywords","content":"business,technology,stock"}],["$","meta","6",{"property":"og:title","content":"Illuminatory"}],["$","meta","7",{"property":"og:description","content":"Curated collection of articles, tips, and strategies designed to illuminate the path to success in the world of commerce."}],["$","meta","8",{"property":"og:url","content":"https://illuminatory.aryagustiana.com/"}],["$","meta","9",{"property":"og:site_name","content":"Illuminatory"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image:type","content":"image/png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image","content":"https://illuminatory.aryagustiana.com/opengraph-image.png?dcdfdd4da6c383cc"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Illuminatory"}],["$","meta","18",{"name":"twitter:description","content":"Curated collection of articles, tips, and strategies designed to illuminate the path to success in the world of commerce."}],["$","meta","19",{"name":"twitter:image","content":"https://illuminatory.aryagustiana.com/opengraph-image.png"}],["$","meta","20",{"name":"next-size-adjust"}]]
+1:null

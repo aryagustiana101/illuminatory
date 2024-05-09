@@ -1,0 +1,189 @@
+2:I[8872,["872","static/chunks/872-8add78a6d8599293.js","388","static/chunks/app/(marketing)/%5Blang%5D/blogs/%5Bslug%5D/page-bcdbec98f6ed4c06.js"],""]
+4:I[3721,[],""]
+7:I[8222,[],""]
+8:I[995,["792","static/chunks/84fbfe7f-1da74bc45609c40c.js","872","static/chunks/872-8add78a6d8599293.js","54","static/chunks/54-b150454ff925b862.js","635","static/chunks/635-b9961becf790c6f4.js","306","static/chunks/306-79178221f47e00a3.js","738","static/chunks/app/(marketing)/%5Blang%5D/layout-449802f9803ec8a1.js"],"default"]
+9:I[4414,["792","static/chunks/84fbfe7f-1da74bc45609c40c.js","872","static/chunks/872-8add78a6d8599293.js","54","static/chunks/54-b150454ff925b862.js","635","static/chunks/635-b9961becf790c6f4.js","306","static/chunks/306-79178221f47e00a3.js","738","static/chunks/app/(marketing)/%5Blang%5D/layout-449802f9803ec8a1.js"],"DesktopNavbar"]
+d:I[8640,["792","static/chunks/84fbfe7f-1da74bc45609c40c.js","872","static/chunks/872-8add78a6d8599293.js","54","static/chunks/54-b150454ff925b862.js","635","static/chunks/635-b9961becf790c6f4.js","306","static/chunks/306-79178221f47e00a3.js","738","static/chunks/app/(marketing)/%5Blang%5D/layout-449802f9803ec8a1.js"],"default"]
+e:I[5461,["792","static/chunks/84fbfe7f-1da74bc45609c40c.js","872","static/chunks/872-8add78a6d8599293.js","54","static/chunks/54-b150454ff925b862.js","635","static/chunks/635-b9961becf790c6f4.js","306","static/chunks/306-79178221f47e00a3.js","738","static/chunks/app/(marketing)/%5Blang%5D/layout-449802f9803ec8a1.js"],"default"]
+10:I[3387,["54","static/chunks/54-b150454ff925b862.js","185","static/chunks/app/layout-776653fb580619fb.js"],"default"]
+3:T5870,<img style="max-width: 800px; width: 80%;" src="https://res.cloudinary.com/dvmafw5oc/image/upload/v1715242165/finger-pointing-bulb-draw_rbqi59.jpg">
+        <p>In today's fast-moving business landscape, harnessing the power of Artificial Intelligence (AI) can be the key to achieving unprecedented financial success. AI technology has permeated various industries, promising efficiency, innovation, and profitability. For entrepreneurs looking to capitalize on this wave of innovation, exploring AI-based business ideas is crucial.</p>
+        <p>This blog post delves into seven profitable AI-based business ideas with significant potential for entrepreneurs. Each idea offers unique opportunities and challenges, paving the way for disruptive ventures that can redefine industries and generate substantial wealth.</p>
+        <p>Without further ado, let's explore these innovative AI-based business ideas and chart a course towards prosperity.</p>
+        <hr>
+        
+        
+        <h2 id="personalized-health-monitoring">1. Personalized Health Monitoring</h2>
+        <p><strong>Concept and Business Potential</strong></p>
+        <p>Personalized health monitoring leverages AI algorithms to provide tailored insights into individual well-being, revolutionizing preventive healthcare services. By integrating data from wearable devices, genetic profiles, and lifestyle habits, entrepreneurs can offer subscription-based services that deliver real-time health assessments and early warnings of potential medical conditions.</p>
+        <p>With the rise of chronic diseases and the increasing importance of preventive care, personalized health monitoring solutions offer tremendous value to consumers seeking to manage their health proactively. AI algorithms can analyze vast amounts of data, identifying patterns and risk factors that may elude human experts alone.</p>
+        <p>An important example in this field is <a href="https://www.fitbit.com/">Fitbit</a>, a pioneer in wearable fitness trackers. While Fitbit's initial offerings focused on activity tracking, the company has expanded personalized health insights through its Premium subscription service. By harnessing AI algorithms, Fitbit Premium provides users with personalized guidance on sleep, nutrition, and overall well-being.</p>
+        <p>Another player in the personalized health monitoring space is <a href="https://ginger.io/">Ginger.io</a>, which utilizes AI to analyze data from smartphones and wearable devices to identify patterns that may indicate mental health issues such as depression or anxiety. The Ginger.io platform provides personalized coaching and connects users with therapists, enabling early intervention and support for mental well-being.</p>
+        
+        <p><strong>Revenue Streams</strong></p>
+        <ul>
+            <li>Subscription fees from users for access to personalized health insights.</li>
+            <li>Partnerships with healthcare providers for data analytics and research.</li>
+            <li>Licensing AI algorithms for medical applications.</li>
+        </ul>
+        
+        <p><strong>Challenges</strong></p>
+        <ol>
+            <li>Regulatory constraints related to privacy and healthcare data compliance.</li>
+            <li>Ensuring the accuracy and reliability of AI-generated health insights.</li>
+            <li>High Research and Development (R&amp;D) costs to develop robust AI algorithms.</li>
+        </ol>
+        <p>To address these challenges, entrepreneurs must prioritize data privacy and security, complying with strict regulations such as HIPAA in the United States. Collaborating with healthcare professionals and medical research institutions can help validate the accuracy and effectiveness of AI-based health insights. Additionally, securing adequate funding through venture capital or strategic partnerships may be necessary to support the high R&amp;D costs associated with developing state-of-the-art AI algorithms for personalized health monitoring.</p>
+        <hr>
+        
+        
+        <h2 id="ai-powered-talent-matching-platform">2. AI-Powered Talent Matching Platform</h2>
+        <p><strong>Concept and Business Potential</strong></p>
+        <p>Traditional recruitment processes can be complex and time-consuming for both employers and job seekers. AI-powered talent matching platforms offer a solution by leveraging machine learning algorithms to analyze various factors, including skills, experience, and cultural fit, to connect job seekers with suitable companies. Through continuous learning, these platforms improve placement accuracy, reduce turnover rates, and streamline the recruitment process.</p>
+        <p>An important example of a successful AI-powered talent matching platform is <a href="https://eightfold.ai/">Eightfold.ai</a>. This platform utilizes AI to analyze candidates' skills, experience, and career goals, then matches them with relevant job opportunities across various industries. Eightfold.ai's algorithms continue to learn and adapt, enhancing talent matching accuracy over time.</p>
+        <p>Another key player in this field is <a href="https://www.pymetrics.ai/">Pymetrics</a>, which employs a unique approach to talent matching by assessing candidates' cognitive and emotional traits through gamified assessments. By analyzing candidates' cognitive and emotional traits, Pymetrics' AI algorithms identify suitable job roles and provide personalized career recommendations.</p>
+        
+        <p><strong>Revenue Streams</strong></p>
+        <ul>
+            <li>Subscription fees from employers for access to talent matching services.</li>
+            <li>Placement fees or commissions for successful candidate placements.</li>
+            <li>Customized recruitment solutions for enterprise clients.</li>
+        </ul>
+        
+        <p><strong>Challenges</strong></p>
+        <ol>
+            <li>Algorithmic bias in talent matching, leading to unfair discrimination.</li>
+            <li>Building trust and transparency with both employers and job seekers regarding data privacy and algorithmic decision-making.</li>
+            <li>Competing with established recruitment agencies and job boards.</li>
+        </ol>
+        <p>To mitigate algorithmic bias, talent matching platforms must implement rigorous testing and validation procedures, ensuring fairness and equal opportunity for all candidates. Transparent communication about data usage and algorithmic decision-making is essential to build trust and maintain user confidence. Additionally, partnering with industry associations and regulatory bodies can help establish industry standards for ethical AI adoption in talent recruitment.</p>
+        <hr>
+        
+        <h2 id="customized-e-learning-experiences">3. Customized E-learning Experiences</h2>
+        <p><strong>Concept and Business Potential</strong></p>
+        <p>Traditional e-learning platforms often adopt a universal approach that may not effectively meet the diverse learning needs of each individual. AI-powered personalized e-learning experiences aim to address these limitations by utilizing algorithms that adapt to learners' preferences, pace, and strengths/weaknesses. Whether targeting K-12 tutoring, professional development, or skill acquisition for hobbyists, these platforms offer personalized learning journeys that enhance educational outcomes.</p>
+        <p>An important example in this field is <a href="https://www.century.tech/">Century AI</a>, a UK-based startup utilizing AI to create personalized learning experiences for students. The Century AI platform analyzes each student's learning patterns and adjusts content, pace, and teaching methods to meet the needs of individual students, thereby resulting in increased engagement and academic performance.</p>
+        <p>Another player in AI-based e-learning is <a href="https://www.knewton.com/">Knewton</a>, which offers an adaptive learning platform leveraging AI to personalize the learning experience for each student. Knewton's algorithms analyze student data, including performance, engagement, and learning styles, to provide tailored content and assessments that optimize learning outcomes.</p>
+        <p>To further enhance personalization capabilities, some e-learning platforms incorporate advanced AI techniques such as natural language processing (NLP) and computer vision. For example, <a href="https://www.duolingo.com/">Duolingo</a> utilizes NLP to provide personalized feedback and suggestions based on learners' language proficiency and common mistakes.</p>
+
+        <p><strong>Revenue Streams</strong></p>
+        <ul>
+            <li>Subscription fees charged to users for access to personalized learning content and features.</li>
+            <li>Sales of individual courses or learning modules.</li>
+            <li>Partnerships with educational institutions for licensing and distribution of content.</li>
+        </ul>
+
+        <p><strong>Challenges</strong></p>
+        <ol>
+            <li>Maintaining high-quality content that aligns with diverse learning needs.</li>
+            <li>Ensuring the effectiveness of education and relevance of AI-based learning experiences.</li>
+            <li>Competing with established e-learning platforms and education providers.</li>
+        </ol>
+        <p>To address these challenges, entrepreneurs must prioritize content quality and continuously update learning materials to remain relevant to changing educational standards and industry demands. Collaborating with subject matter experts, educators, and instructional designers can help ensure the effectiveness of AI-based learning experiences. Additionally, conducting rigorous user testing and iterating based on learner feedback are crucial for continuous improvement and maintaining a competitive edge in the e-learning market.</p>
+        <hr>
+        
+        <h2 id="sustainable-energy-management">4. Sustainable Energy Management</h2>
+        <p><strong>Concept and Business Potential</strong></p>
+        <p>With increasing focus on sustainability, AI holds great potential in optimizing energy consumption and management. AI-based solutions can analyze data on energy usage patterns, weather conditions, and infrastructure to optimize energy efficiency and reduce waste. Whether through smart grids for utilities or home automation systems, these solutions offer environmentally friendly and cost-effective energy management options.</p>
+        <p>An important example in this field is <a href="https://uplight.com/">Uplight</a>, a company providing AI-powered energy management solutions for utility companies. Uplight's AI algorithms analyze energy usage data, weather patterns, and customer behavior to optimize energy distribution, reduce peak demand, and promote energy conservation.</p>
+        <p>Another player in sustainable energy management is <a href="https://www.verdigrisenergy.com/">Verdigris</a>, which focuses on AI-based energy optimization for commercial and industrial facilities. The Verdigris platform utilizes IoT sensors and AI algorithms to monitor energy consumption in real-time, identify inefficiencies, and provide actionable insights to reduce waste and energy costs.</p>
+        <p>In addition to energy optimization, AI is also utilized for predictive maintenance in the energy sector. <a href="https://www.uptake.com/">UpTake</a>, for example, offers AI-powered predictive maintenance solutions that analyze sensor data from wind turbines and other energy assets to predict potential failures and schedule maintenance proactively, thereby reducing downtime and maximizing energy production.</p>
+
+        <p><strong>Revenue Streams</strong></p>
+        <ul>
+            <li>Sales of hardware devices for energy monitoring and management.</li>
+            <li>Subscription-based services for software solutions optimizing energy usage.</li>
+            <li>Partnerships with utility companies for data analysis and optimization services.</li>
+            <li>Government grants and incentives for sustainable energy initiatives.</li>
+        </ul>
+
+        <p><strong>Challenges</strong></p>
+        <ol>
+            <li>Infrastructure requirements for implementing AI-based energy management systems.</li>
+            <li>Technological limitations in data collection, analysis, and integration.</li>
+            <li>Consumer adoption rates and willingness to invest in sustainable energy solutions.</li>
+        </ol>
+        <p>To address these challenges requires significant investment in infrastructure and data integration capabilities. Collaborating with energy providers, building management companies, and government agencies can help streamline the implementation process and leverage existing infrastructure. Additionally, increasing consumer awareness of long-term cost savings and environmental benefits of AI-based energy management solutions can help drive adoption and make this endeavor more financially viable.</p>
+        <hr>
+
+        <h2 id="ai-driven-content-creation">5. AI-Driven Content Creation</h2>
+        <p><strong>Concept and Business Potential</strong></p>
+        <p>Content creation is a crucial component of digital marketing, yet it can consume a lot of resources and time. AI-based content creation platforms offer solutions by leveraging algorithms to automatically generate high-quality written, audio, or visual content. These platforms can optimize content for various factors such as SEO, readability, and audience engagement, providing a comprehensive solution for businesses and content creators.</p>
+        <p>An example of an AI-based content creation platform is <a href="https://www.copy.ai/">Copy.ai</a>, which allows users to generate various types of content, including blog posts, social media texts, and even code snippets, using natural language commands. Copy.ai's algorithms are trained on extensive datasets, enabling them to produce human-like content tailored to specific styles and tones.</p>
+        <p>Another player in this field is <a href="https://www.synthesia.io/">Synthesia</a>, which specializes in AI-generated video content. The Synthesia platform uses advanced deep learning models to create realistic talking avatars, allowing businesses and content creators to produce engaging video content without requiring expensive studio setups or actors.</p>
+        <p>In addition to textual and visual content creation, AI is also utilized for audio content creation. <a href="https://murf.ai/">Murf AI</a>, for example, offers an AI-powered platform that can generate realistic voiceovers and audio narrations in various languages and accents, streamlining the audio production process for businesses and content creators.</p>
+
+        <p><strong>Revenue Streams</strong></p>
+        <ul>
+            <li>Subscription fees charged to users for access to AI-generated content creation tools.</li>
+            <li>Pricing models based on pay-per-content for specific content.</li>
+            <li>Licensing agreements with marketing agencies for access to AI-generated content.</li>
+            <li>Offering additional services such as content optimization and analysis.</li>
+        </ul>
+
+        <p><strong>Challenges</strong></p>
+        <ol>
+            <li>Maintaining quality and relevance of content to meet user expectations.</li>
+            <li>Handling language complexity and human creativity to ensure content sounds natural.</li>
+            <li>Addressing copyright issues and ensuring compliance with intellectual property laws.</li>
+        </ol>
+        <p>To address these challenges, entrepreneurs must continuously refine their AI models and algorithms to improve the quality and relevance of content. Incorporating feedback mechanisms and human oversight can help identify and mitigate potential biases or errors in the generated content. Additionally, staying abreast of copyright laws developments and implementing robust content filtering systems are crucial to ensuring compliance with intellectual property regulations.</p>
+        <hr>
+
+        <h2 id="smart-agriculture">6. Smart Agriculture</h2>
+        <p><strong>Concept and Business Potential</strong></p>
+        <p>As the global population grows, the demand for food increases, putting pressure on agricultural systems. AI-powered smart farming solutions offer opportunities to optimize crop yields, resource usage, and farm management. By analyzing data on various factors such as soil quality, weather conditions, and plant health, AI-based solutions can provide actionable insights to farmers to enhance productivity and sustainability.</p>
+        <p>An important example in this field is <a href="https://www.precisionhawk.com/">Precision Hawk</a>, which provides AI-powered drone solutions for agriculture. Precision Hawk drones capture high-resolution images and data, which are then analyzed by AI algorithms to identify plant health issues, optimize irrigation, and guide precision farming practices.</p>
+        <p>Another player in smart agriculture is <a href="https://prospera.ag/">Prospera</a>, which focuses on AI-based crop monitoring and management. The Prospera platform utilizes computer vision and machine learning to analyze field data and provide insights to farmers on optimizing inputs, detecting pests and diseases, and maximizing crop yields.</p>
+
+        <p><strong>Revenue Streams</strong></p>
+        <ul>
+            <li>Sales of software licenses for AI-driven farm management and analytics platforms.</li>
+            <li>Data analysis services offered to farmers and agricultural businesses.</li>
+            <li>Consulting services for implementing and optimizing smart agriculture solutions.</li>
+        </ul>
+
+        <p><strong>Challenges</strong></p>
+        <ol>
+            <li>High initial costs associated with implementing AI-based agriculture solutions.</li>
+            <li>Complexity of agricultural systems and variability between regions and crops.</li>
+            <li>Adoption and usability challenges, especially among small-scale and traditional farmers.</li>
+        </ol>
+        <p>To address these challenges, entrepreneurs should focus on developing cost-effective and scalable solutions that can accommodate diverse farming systems and practices. Partnering with agricultural research institutions and leveraging government incentives or subsidies can help reduce the high initial costs and drive adoption among small-scale farmers. Additionally, providing comprehensive training and support services can help overcome usability challenges and ensure the successful implementation of smart agriculture solutions.</p>
+        <hr>
+
+        <h2 id="automated-financial-advising">7. Automated Financial Advising</h2>
+    <p><strong>Concept and Business Potential</strong></p>
+    <p>With increasing financial awareness, the demand for personalized financial consulting services is also rising. AI-driven robo-advisory platforms offer solutions by leveraging machine learning algorithms to analyze vast datasets and provide tailored investment strategies, risk assessments, and portfolio management advice. These platforms offer convenience, accessibility, and efficiency in managing personal finances, making them appealing to many investors.</p>
+    <p>An outstanding example in this field is <a href="https://www.wealthfront.com/">Wealthfront</a>, a robo-advisor that provides automated investment management services. Wealthfront's AI algorithms analyze user financial data, risk tolerance, and investment goals to create and manage personalized investment portfolios.</p>
+    <p>Another player in the automated financial advising field is <a href="https://www.betterment.com/">Betterment</a>, which offers a range of AI-supported investment products and services. Betterment's algorithms continuously monitor and adjust portfolios based on market conditions and individual investor preferences, ensuring optimal asset allocation and risk management.</p>
+
+    <p><strong>Revenue Streams</strong></p>
+    <ul>
+        <li>Subscription fees charged to users for access to automated financial advising services.</li>
+        <li>Licensing technology to financial institutions and wealth management companies.</li>
+        <li>Monetizing data through the sale of anonymized financial data to third parties.</li>
+    </ul>
+
+    <p><strong>Challenges</strong></p>
+    <ol>
+        <li>Regulatory constraints related to financial advice and data privacy.</li>
+        <li>Building and maintaining customer trust in automated financial consulting services.</li>
+        <li>Ensuring data security and protection against cyber threats and breaches.</li>
+    </ol>
+    <p>To address these challenges, entrepreneurs must prioritize compliance with relevant financial regulations and data privacy laws. Implementing robust cybersecurity measures and ensuring transparency in AI decision-making processes can help build consumer trust. Additionally, partnering with established financial institutions and wealth management companies can provide credibility and access to a larger customer base, while also offering opportunities for technology licensing and data monetization.</p>
+    <hr>
+
+    <img style="max-width: 800px; width: 80%;" src="https://res.cloudinary.com/dvmafw5oc/image/upload/v1715241917/qualified-technicians-brainstorm-ways-use-ai-cognitive-computing-extract-usable-information-from-complex-data-team-specialists-implement-artificial-intelligence-process-_a4anad.jpg">
+    <h2 id="conclusion">Conclusion</h2>
+    <p>The potential of AI to revolutionize various industries is undeniable, and the business ideas presented in this blog post offer exciting opportunities for entrepreneurs to leverage this trend. From personalized health monitoring to automated financial advising, each idea harnesses AI technology to address specific challenges and pave the way for growth and profitability.</p>
+    <p>Like any endeavor, success in AI-based businesses requires careful planning, innovation, and a deep understanding of market dynamics and customer needs. By harnessing AI and exploring these business ideas, entrepreneurs can position themselves at the forefront of innovation, driving positive change, and achieving unparalleled financial success.</p>
+    <p>The future of business is powered by AI, and now is the time to invest in this transformative technology. With the right strategy, implementation, and commitment to responsible AI development, entrepreneurs can unlock wealth and shape the future of their respective industries.</p>
+    <hr>5:["lang","en","d"]
+6:["slug","7-ai-based-business-ideas","d"]
+b:{"href":"/en","title":"Home"}
+c:{"href":"/en/blogs","title":"Blogs"}
+a:["$b","$c"]
+f:T49a,M7.49933 0.25C3.49635 0.25 0.25 3.49593 0.25 7.50024C0.25 10.703 2.32715 13.4206 5.2081 14.3797C5.57084 14.446 5.70302 14.2222 5.70302 14.0299C5.70302 13.8576 5.69679 13.4019 5.69323 12.797C3.67661 13.235 3.25112 11.825 3.25112 11.825C2.92132 10.9874 2.44599 10.7644 2.44599 10.7644C1.78773 10.3149 2.49584 10.3238 2.49584 10.3238C3.22353 10.375 3.60629 11.0711 3.60629 11.0711C4.25298 12.1788 5.30335 11.8588 5.71638 11.6732C5.78225 11.205 5.96962 10.8854 6.17658 10.7043C4.56675 10.5209 2.87415 9.89918 2.87415 7.12104C2.87415 6.32925 3.15677 5.68257 3.62053 5.17563C3.54576 4.99226 3.29697 4.25521 3.69174 3.25691C3.69174 3.25691 4.30015 3.06196 5.68522 3.99973C6.26337 3.83906 6.8838 3.75895 7.50022 3.75583C8.1162 3.75895 8.73619 3.83906 9.31523 3.99973C10.6994 3.06196 11.3069 3.25691 11.3069 3.25691C11.7026 4.25521 11.4538 4.99226 11.3795 5.17563C11.8441 5.68257 12.1245 6.32925 12.1245 7.12104C12.1245 9.9063 10.4292 10.5192 8.81452 10.6985C9.07444 10.9224 9.30633 11.3648 9.30633 12.0413C9.30633 13.0102 9.29742 13.7922 9.29742 14.0299C9.29742 14.2239 9.42828 14.4496 9.79591 14.3788C12.6746 13.4179 14.75 10.7025 14.75 7.50024C14.75 3.49593 11.5036 0.25 7.49933 0.25Z0:["ld1RKXhgzGXjoKwz4ImLb",[[["",{"children":["(marketing)",{"children":[["lang","en","d"],{"children":["blogs",{"children":[["slug","7-ai-based-business-ideas","d"],{"children":["__PAGE__?{\"lang\":\"en\",\"slug\":\"7-ai-based-business-ideas\"}",{}]}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(marketing)",{"children":[["lang","en","d"],{"children":["blogs",{"children":[["slug","7-ai-based-business-ideas","d"],{"children":["__PAGE__",{},[["$L1",["$","section",null,{"children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl","children":"7 AI-Based Business Ideas"}],["$","p",null,{"className":"text-justify leading-7 text-neutral-600 dark:text-neutral-400 [&:not(:first-child)]:mt-4","children":"May 9th, 2024"}]]}],["$","$L2",null,{"href":"/en/blogs","className":"inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 text-primary underline-offset-4 hover:underline h-9 px-4 py-2 mb-8","children":[["$","svg",null,{"width":"15","height":"15","viewBox":"0 0 15 15","fill":"none","xmlns":"http://www.w3.org/2000/svg","className":"mr-2 size-4","children":["$","path",null,{"d":"M6.85355 3.14645C7.04882 3.34171 7.04882 3.65829 6.85355 3.85355L3.70711 7H12.5C12.7761 7 13 7.22386 13 7.5C13 7.77614 12.7761 8 12.5 8H3.70711L6.85355 11.1464C7.04882 11.3417 7.04882 11.6583 6.85355 11.8536C6.65829 12.0488 6.34171 12.0488 6.14645 11.8536L2.14645 7.85355C1.95118 7.65829 1.95118 7.34171 2.14645 7.14645L6.14645 3.14645C6.34171 2.95118 6.65829 2.95118 6.85355 3.14645Z","fill":"currentColor","fillRule":"evenodd","clipRule":"evenodd"}]}],"Back"]}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"$3"},"className":"prose prose-sm prose-neutral max-w-none dark:prose-invert"}]]}]],null],null]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children","$5","children","blogs","children","$6","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children","$5","children","blogs","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[[["$","header",null,{"className":"sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60","children":["$","div",null,{"className":"container flex h-14 max-w-screen-2xl items-center","children":[["$","$L8",null,{"logoHref":"/en","menus":[{"href":"/en","title":"Home"},{"href":"/en/blogs","title":"Blogs"}]}],["$","$L9",null,{"logoHref":"/en","menus":"$a"}],["$","div",null,{"className":"flex flex-1 items-center justify-end space-x-2 md:justify-end","children":["$","nav",null,{"className":"flex items-center gap-4","children":[["$","$Ld",null,{}],["$","$Le",null,{"locale":"en"}],["$","$L2",null,{"target":"_blank","rel":"noreferrer","href":"https://github.com/aryagustiana101/illuminatory","children":["$","div",null,{"className":"inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground h-9 py-2 w-9 px-0","children":["$","svg",null,{"width":"15","height":"15","viewBox":"0 0 15 15","fill":"none","xmlns":"http://www.w3.org/2000/svg","className":"h-4 w-4","children":["$","path",null,{"d":"$f","fill":"currentColor","fillRule":"evenodd","clipRule":"evenodd"}]}]}]}]]}]}]]}]}],["$","main",null,{"className":"mx-4 mb-40 mt-8 flex max-w-2xl flex-1 flex-col antialiased md:flex-row lg:mx-auto","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]}],["$","footer",null,{"className":"py-6 md:px-8 md:py-0","children":["$","div",null,{"className":"container flex flex-col items-center justify-center gap-4 md:h-24 md:flex-row","children":["$","p",null,{"className":"text-balance text-center text-sm leading-loose text-muted-foreground md:text-left","children":"© Copyright 2024 - Gustiana Software"}]}]}]],null],null]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(marketing)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"__variable_174ffe __variable_06ba51 relative flex min-h-screen flex-col bg-background font-sans antialiased","children":["$","$L10",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"container flex h-[100dvh] max-w-2xl flex-col items-center justify-center","children":["$","main",null,{"className":"space-y-8","children":[["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl","children":"404"}],["$","p",null,{"className":"leading-7 [&:not(:first-child)]:mt-6","children":"The page you looking for is not exists"}]]}],["$","div",null,{"className":"flex w-full justify-center","children":["$","$L2",null,{"href":"/","className":"inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground shadow hover:bg-primary/90 h-9 px-4 py-2","children":"Back to Home"}]}]]}]}],"notFoundStyles":[],"styles":null}]}]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"https://cdn-illuminatory.aryagustiana.com/out/_next/static/css/141c62f21f658299.css","precedence":"next","crossOrigin":"$undefined"}]],"$L11"]]]]
+11:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"7 AI-Based Business Ideas - Illuminatory"}],["$","meta","3",{"name":"description","content":"Curated collection of articles, tips, and strategies designed to illuminate the path to success in the world of commerce."}],["$","link","4",{"rel":"manifest","href":"https://illuminatory.aryagustiana.com/site.webmanifest","crossOrigin":"use-credentials"}],["$","meta","5",{"name":"keywords","content":"business,technology,stock"}],["$","meta","6",{"property":"og:title","content":"Illuminatory"}],["$","meta","7",{"property":"og:description","content":"Curated collection of articles, tips, and strategies designed to illuminate the path to success in the world of commerce."}],["$","meta","8",{"property":"og:url","content":"https://illuminatory.aryagustiana.com/"}],["$","meta","9",{"property":"og:site_name","content":"Illuminatory"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image:type","content":"image/png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image","content":"https://illuminatory.aryagustiana.com/opengraph-image.png?dcdfdd4da6c383cc"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Illuminatory"}],["$","meta","18",{"name":"twitter:description","content":"Curated collection of articles, tips, and strategies designed to illuminate the path to success in the world of commerce."}],["$","meta","19",{"name":"twitter:image","content":"https://illuminatory.aryagustiana.com/opengraph-image.png"}],["$","meta","20",{"name":"next-size-adjust"}]]
+1:null
