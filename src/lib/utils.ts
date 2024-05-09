@@ -10,3 +10,9 @@ export function cn(...inputs: ClassValue[]) {
 export function fullUrl(path?: string) {
   return `${APP_URL}${path ?? ""}`;
 }
+
+export function isRouteActive(route: string, pathname: string) {
+  return ["/"].includes(route)
+    ? pathname === route
+    : pathname.startsWith(route);
+}
