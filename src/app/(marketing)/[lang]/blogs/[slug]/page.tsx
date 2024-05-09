@@ -13,6 +13,10 @@ interface DetailBlogPageParams {
   params: { lang: Locale; slug: string };
 }
 
+export async function generateStaticParams() {
+  return contents.blogs.map(({ locale, slug }) => ({ locale, slug }));
+}
+
 export async function generateMetadata({
   params,
 }: {

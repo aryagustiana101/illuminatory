@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { __, locales, type Locale } from "~/lib/translation";
-import { formatDate, fullUrl } from "~/lib/utils";
+import { formatDate } from "~/lib/utils";
 import contents from "~/data/contents";
 
 interface BlogsPageProps {
@@ -29,7 +29,7 @@ export default function BlogsPage({
     .filter(({ locale: _locale }) => _locale === locale)
     .map(({ title, slug, date }) => ({
       title,
-      href: fullUrl(`/${locale}/blogs/${slug}`),
+      href: `/${locale}/blogs/${slug}`,
       date: formatDate({ date, format: "PPP", locale }),
     }));
 
