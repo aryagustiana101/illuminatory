@@ -4,21 +4,22 @@ import * as React from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
-import { NavbarMenu } from "~/types";
+import { type NavbarMenu } from "~/types";
 import { siteConfig } from "~/lib/config";
 import { cn, isRouteActive } from "~/lib/utils";
 import Logo from "~/components/logo";
 
 interface DesktopNavbarProps {
+  logoHref?: string;
   menus: Array<NavbarMenu>;
 }
 
-export function DesktopNavbar({ menus }: DesktopNavbarProps) {
+export function DesktopNavbar({ menus, logoHref = "/" }: DesktopNavbarProps) {
   const pathname = usePathname();
 
   return (
     <div className="mr-4 hidden md:flex">
-      <Link href="/" className="mr-6 flex items-center space-x-2">
+      <Link href={logoHref} className="mr-6 flex items-center space-x-2">
         <Logo className="size-6" />
         <span className="hidden font-bold sm:inline-block">
           {siteConfig.name}
@@ -30,7 +31,7 @@ export function DesktopNavbar({ menus }: DesktopNavbarProps) {
             key={i}
             href={menu.href}
             className={cn(
-              "hover:text-foreground/80 transition-colors",
+              "transition-colors hover:text-foreground/80",
               isRouteActive(menu.href, pathname)
                 ? "text-foreground"
                 : "text-foreground/60"

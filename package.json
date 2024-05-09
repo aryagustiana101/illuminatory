@@ -16,6 +16,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint --ignore-path .eslintignore",
+    "typecheck": "tsc -p tsconfig.json",
     "format": "prettier --ignore-path .prettierignore --write **/*.{ts,tsx}",
     "clean": "rm -rf .next tsconfig.tsbuildinfo",
     "clean:node_modules": "find . -name 'node_modules' -type d -prune -exec rm -rf '{}' +"
@@ -37,7 +38,6 @@
     "nprogress": "^0.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "server-only": "^0.0.1",
     "tailwind-merge": "^2.3.0",
     "zod": "^3.23.7"
   },

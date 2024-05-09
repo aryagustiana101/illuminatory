@@ -24,6 +24,7 @@ module.exports = {
     "tailwindcss/no-custom-classname": "off",
     "@typescript-eslint/require-await": "off",
     "@next/next/no-html-link-for-pages": "off",
+    "tailwindcss/no-unnecessary-arbitrary-value": "off",
     "@typescript-eslint/consistent-type-definitions": "off",
     "@typescript-eslint/prefer-nullish-coalescing": "error",
     "prettier/prettier": ["error", require("./prettier.config.cjs")],

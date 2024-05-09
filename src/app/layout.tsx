@@ -44,7 +44,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
       <head />
       <body
         className={cn(
-          `bg-background relative flex min-h-screen flex-col font-sans antialiased`,
+          `relative flex min-h-screen flex-col bg-background font-sans antialiased`,
           GeistSans.variable,
           GeistMono.variable
         )}
